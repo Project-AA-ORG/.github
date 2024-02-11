@@ -137,10 +137,6 @@
 
     > At the end of PA Sprint 5, we were at a completely different point than where we started. We had made progress that we could be proud of.
       
-        
-
-  
-
 <p align="center"> 
   <a href="#">
     <img src="https://github.com/meteahmetyakar/meteahmetyakar/blob/main/images/line.png"/>
