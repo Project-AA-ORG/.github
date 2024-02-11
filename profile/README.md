@@ -1,4 +1,4 @@
-### The purpose of this README is to share everything we did and our development as a team during the 4-month project development process of the mobile application we developed for *Şenay Duran Okulları* by working Agile with the team we established at the university.
+### The purpose of this README is to share everything we did and our development as a team during the 4-month project development process of the mobile application we developed for *Şenay Duran Okulları* by working agile with the team we established at the university.
 
 
 <p align="center"> 
@@ -28,8 +28,8 @@
 
 # Preparation
 + The scope of the project was decided together with the team.
-+ **Product Owner** found a customer for the project.
-+ **Scrum Master** prepared the jira as shown below for the team to use.
++ **[Furkan2001](https://github.com/Furkan2001)** found a customer for the project.
++ **[meteahmetyakar](https://github.com/meteahmetyakar)** prepared the jira as shown below for the team to use.
   + Special issue type *(Spike)*
    
     ![image](https://github.com/Project-AA-ORG/.github/assets/56269926/362deeb3-10f1-495b-aa22-625cd0cadfb5)
@@ -53,7 +53,7 @@
  
      ![image](https://github.com/Project-AA-ORG/.github/assets/56269926/c25fa413-58b0-4aa1-843e-eb1c1103356d)
 
-+ **Scrum master** prepared templates of the pages to be used in the meetings.
++ **[meteahmetyakar](https://github.com/meteahmetyakar)** prepared templates of the pages to be used in the meetings.
   + Customer Interview Template
 
     ![image](https://github.com/Project-AA-ORG/.github/assets/56269926/773c1dbb-15b4-46fb-b277-46b6470bc4da)
@@ -66,7 +66,7 @@
  
     ![image](https://github.com/Project-AA-ORG/.github/assets/56269926/1de33de3-be4a-467e-8a21-2e6d07f7a19e)
 
-+ **Scrum master** created the areas that the team would use when preparing documentation.
++ **[meteahmetyakar](https://github.com/meteahmetyakar)** created the areas that the team would use when preparing documentation.
   + Prototypes Field
 
     ![image](https://github.com/Project-AA-ORG/.github/assets/56269926/ee316f49-784e-426b-86d9-9104c6a7ad17)
