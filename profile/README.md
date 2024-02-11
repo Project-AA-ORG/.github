@@ -1,4 +1,4 @@
-### The purpose of this README is to share everything we did and our development as a team during the 4-month project development process of the mobile application we developed for *Şenay Duran Okulları* by working Agile with the team we formed at the university.
+### The purpose of this README is to share everything we did and our development as a team during the 4-month project development process of the mobile application we developed for *Şenay Duran Okulları* by working Agile with the team we established at the university.
 
 
 <p align="center"> 
