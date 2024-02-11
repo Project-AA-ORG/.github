@@ -96,7 +96,7 @@
     
      ![image](https://github.com/Project-AA-ORG/.github/assets/56269926/5e16a574-d0e1-4dd8-9b30-24657174c2c7)
 
-  + [Mobile Side Prototype](https://www.figma.com/proto/bvxHvyh43X1cFg5sVv4m2s/Web-Panel?node-id=109-419&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=109%3A419&mode=design&t=A3HjzkZNtmrcnU70-1) prepared by [noktahesefe](https://github.com/noktahesefe)
+  + [Mobile Side Prototype](https://www.figma.com/proto/3FnXWr8j6FjGHEf9pgklN1/mobil-app?node-id=3-751&starting-point-node-id=3%3A751&mode=design&t=rrPqHHfhn2hYKAUg-1) prepared by [noktahesefe](https://github.com/noktahesefe)
 
     ![image](https://github.com/Project-AA-ORG/.github/assets/56269926/c2ca9079-4a93-4943-8f54-8e6098a01fbd)
 
