@@ -67,7 +67,7 @@
     ![image](https://github.com/Project-AA-ORG/.github/assets/56269926/1de33de3-be4a-467e-8a21-2e6d07f7a19e)
 
 + **Scrum master** created the areas that the team would use when preparing documentation.
-  + Prototype Field
+  + Prototypes Field
 
     ![image](https://github.com/Project-AA-ORG/.github/assets/56269926/ee316f49-784e-426b-86d9-9104c6a7ad17)
 
@@ -83,6 +83,48 @@
 
     ![image](https://github.com/Project-AA-ORG/.github/assets/56269926/d383b957-ca29-4bb6-925e-3b1007da6d6a)
 
- 
+<p align="center"> 
+  <a href="#">
+    <img src="https://github.com/meteahmetyakar/meteahmetyakar/blob/main/images/line.png"/>
+    <br></br>
+  </a>
+</p>  
     
+# Prototypes
++  Prototypes were prepared in Figma to show the customer the design and function of the project. Then they were presented to the customer and the project was started after the feedback received
+  +  [Web Side Prototype](https://www.figma.com/proto/bvxHvyh43X1cFg5sVv4m2s/Web-Panel?node-id=109-419&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=109%3A419&mode=design&t=A3HjzkZNtmrcnU70-1) prepared by [berke-yilmaz](https://github.com/berke-yilmaz)
+    
+     ![image](https://github.com/Project-AA-ORG/.github/assets/56269926/5e16a574-d0e1-4dd8-9b30-24657174c2c7)
+
+  + [Mobile Side Prototype](https://www.figma.com/proto/bvxHvyh43X1cFg5sVv4m2s/Web-Panel?node-id=109-419&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=109%3A419&mode=design&t=A3HjzkZNtmrcnU70-1) prepared by [noktahesefe](https://github.com/noktahesefe)
+
+    ![image](https://github.com/Project-AA-ORG/.github/assets/56269926/c2ca9079-4a93-4943-8f54-8e6098a01fbd)
+
+<p align="center"> 
+  <a href="#">
+    <img src="https://github.com/meteahmetyakar/meteahmetyakar/blob/main/images/line.png"/>
+    <br></br>
+  </a>
+</p>  
+
+# Documentation
+  160-page documentation prepared by the entire team by distributing tasks.
+  Content of documentation: 
+  +  User Stories and related scenarios
+  +  User Requirements
+  +  System Requirements
+  +  Figma Prototypes
+  +  Use Case Diagrams (Web Side, Mobile Side)
+  +  Detailed Use Case Tables
+  +  Backlog List
+  +  Context Model
+  +  Process Models
+  +  UML Class Diagrams (Web Side, Mobile Side)
+  +  Sequence Diagrams (Web Side, Mobile Side)
+  +  Documented Test Cases (Web Side, Mobile Side)
+
+
+
+
+
 
