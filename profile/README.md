@@ -107,6 +107,47 @@
   </a>
 </p>  
 
+# Project
+  + After the preparing and the presentation we did our first sprint planning meeting and then we started the project.
+    
+    + PA Sprint 1
+      
+      ![image](https://github.com/Project-AA-ORG/.github/assets/56269926/c7dd1db3-074f-4850-8d8f-7507f2dd1685)
+
+      + PA Sprint 1 Report
+        
+        ![image](https://github.com/Project-AA-ORG/.github/assets/56269926/73d86653-a2d4-4e2b-a010-8494c4f95a2b)
+   
+
+      + End of the PA Sprint 1 we made retrospective, we discussed our first sprint report (we knew it was terrible) and our problems
+
+        ![image](https://github.com/Project-AA-ORG/.github/assets/56269926/e66c7214-0188-4690-a6c5-b1e8633ad096)
+
+
+     > This process continued regularly until the end of the project. We constantly made plans, worked hard, then discussed our mistakes and tried to improve ourselves.
+
+    + PA Sprint 5
+   
+      ![image](https://github.com/Project-AA-ORG/.github/assets/56269926/e7ce34e6-0dd6-4924-b31b-bbb07a8ccc50)
+
+      + PA Sprint 5 Report
+
+        ![image](https://github.com/Project-AA-ORG/.github/assets/56269926/8b4ba26b-9a25-4963-aecc-6ebd9afddd0c)
+
+
+    > At the end of PA Sprint 5, we were at a completely different point than where we started. We had made progress that we could be proud of.
+      
+        
+
+  
+
+<p align="center"> 
+  <a href="#">
+    <img src="https://github.com/meteahmetyakar/meteahmetyakar/blob/main/images/line.png"/>
+    <br></br>
+  </a>
+</p>  
+
 # Documentation
   160-page documentation prepared by the entire team by distributing tasks.
   
