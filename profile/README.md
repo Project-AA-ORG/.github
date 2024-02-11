@@ -154,7 +154,7 @@
   +  Figma Prototypes
   +  Use Case Diagrams (Web Side, Mobile Side)
   +  Detailed Use Case Tables
-  +  Backlog List
+  +  Backlogs
   +  Context Model
   +  Process Models
   +  UML Class Diagrams (Web Side, Mobile Side)
