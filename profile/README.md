@@ -109,6 +109,7 @@
 
 # Documentation
   160-page documentation prepared by the entire team by distributing tasks.
+  
   Content of documentation: 
   +  User Stories and related scenarios
   +  User Requirements
@@ -122,6 +123,8 @@
   +  UML Class Diagrams (Web Side, Mobile Side)
   +  Sequence Diagrams (Web Side, Mobile Side)
   +  Documented Test Cases (Web Side, Mobile Side)
+
+  [project documentation](https://github.com/Project-AA-ORG/.github/blob/main/project-documentation.pdf)
 
 
 
