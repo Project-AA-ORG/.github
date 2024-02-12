@@ -30,7 +30,7 @@
 + The scope of the project was decided together with the team.
 + **[Furkan2001](https://github.com/Furkan2001)** found a customer for the project.
 + **[meteahmetyakar](https://github.com/meteahmetyakar)** prepared the jira as shown below for the team to use.
-  + Special issue type *(Spike)*
+  + Special issue types such as ***spike***
    
     ![image](https://github.com/Project-AA-ORG/.github/assets/56269926/362deeb3-10f1-495b-aa22-625cd0cadfb5)
 
