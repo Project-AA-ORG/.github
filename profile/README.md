@@ -112,7 +112,7 @@
     
     + PA Sprint 1
       
-      ![image](https://github.com/Project-AA-ORG/.github/assets/56269926/c7dd1db3-074f-4850-8d8f-7507f2dd1685)
+      ![image](https://github.com/Project-AA-ORG/.github/assets/56269926/7763baad-89c6-4921-b92e-39b4ff4c1d8c)
 
       + PA Sprint 1 Report
         
