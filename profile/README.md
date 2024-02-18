@@ -108,6 +108,7 @@
 </p>  
 
 # Project
+  + **[Furkan2001](https://github.com/Furkan2001)** did research on the domain and hosting service we would use and we purchased a domain that could meet our needs.
   + After the preparing and the presentation we did our first sprint planning meeting and then we started the project.
     
     + PA Sprint 1
